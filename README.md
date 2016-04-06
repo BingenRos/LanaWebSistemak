@@ -40,4 +40,5 @@ Non sortu daitezke arazoak:
   Formularioetan zuriuneak hutzita
   formularioan, eskatzen den mota baino zerbait ezberdin ipintzen bada.
   kamara atalean bai,b,ez edo e ipintzea gomendagarria da.
-  
+
+Komentario bezala, datu basearen taula uste dut deskolokatzen dela formatu batzuetan. argazki bat ipiniko dut badaezpada  
